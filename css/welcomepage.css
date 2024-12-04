@@ -1,0 +1,28 @@
+.welcome-p{
+    color:  #86DF0E;
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.container-nav{
+    width: 80%;
+
+}
+.nav-shadow{
+box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+.welcome-btn{
+    padding: 8px 20px;
+    background: #09282E;
+    color: #86DF0E;
+    border-color:#86DF0E;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.welcome-btn:hover{
+    background: #86DF0E;
+    color: #ffffff;
+}
+  
+  
